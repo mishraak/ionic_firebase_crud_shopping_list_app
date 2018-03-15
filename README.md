@@ -1,17 +1,15 @@
 
 
-## Fully Functiononing firebase CRUD application
+## Magic of Ionic + Firebase together!
 
-This project was built by following Paul Halliday's online course Learn Ionic3 from Scratch.
+Main components Ionic3 & AngularFire2.
 
+### How to run the project:
 
-### How to run the project with the Ionic CLI:
+Clone the repo.
+CD into it 
+Run npm i
+and then ionic lab
 
-Download the zip file or fork the project and pull to a local directory, run 'npm install' from within the local directory and then run the command ionic lab or ionic serve. This will start a local development server.
-
-If you open a browser and navigate to localhost:8100/ionic-lab you should find the app running.
-
-Thanks for viewing the app and this readme.
-
-(this app was built with Ionic3 and Angularfire2)
+Open a browser and navigate to localhost:8100/ionic.
 
